@@ -1,0 +1,122 @@
+<pre class='metadata'>
+Title: 2021 September Library Evolution Polls
+Shortname: D2436
+Revision: 0
+Status: D
+Group: WG21
+Audience: WG21
+Editor: Bryce Adelstein Lelbach (he/him/his) — Library Evolution Chair, NVIDIA, brycelelbach@gmail.com
+URL: https://wg21.link/P2436
+!Source: <a href="https://github.com/brycelelbach/wg21_p2436_2021_september_library_evolution_polls/blob/main/2021_september_library_evolution_polls.bs">GitHub</a>
+Issue Tracking: GitHub https://github.com/brycelelbach/wg21_p2436_2021_september_library_evolution_polls/issues
+Metadata Order: Editor, Source, Issue Tracking, Project, Audience
+Markup Shorthands: markdown yes
+Toggle Diffs: no
+No Abstract: yes
+Boilerplate: style-syntax-highlighting off
+</pre>
+
+# Introduction # {#introduction}
+
+This paper contains the decision polls that the C++ Library Evolution group
+  will take in September of 2021.
+
+# Voting # {#voting}
+
+These decision polls will be conducted electronically; see [[P2195R1]] for
+  more information on electronic voting procedures.
+
+All committee members may vote, but if you have not participated in the Library
+  Evolution discussions of a poll, please choose to not vote.
+
+## How to Vote ## {#how-to-vote}
+
+<b><a href="https://documents.isocpp.org/index.php/apps/forms/pPGXK23qi98ftaF8">Vote here</a></b>
+
+A documents.isocpp.org account is necessary to vote.
+If you have an isocpp.org/papers account, a documents.isocpp.org account has
+  been created for you.
+Just go to documents.isocpp.org and reset your password.
+Email <a href="mailto:brycelelbach@gmail.com">Bryce Adelstein Lelbach</a> if you
+  do not have an account or are having trouble accessing your account.
+
+If you see "Form not found" when you go to the above link, you are not signed
+  in to documents.isocpp.org.
+Go to documents.isocpp.org and sign in first.
+
+You will not receive a confirmation email after voting.
+The Library Evolution chairs will send a confirmation to all voters before the
+  close of the poll.
+
+If you need to change how you voted or have any questions or issues about
+  voting, please email
+  <a href="mailto:brycelelbach@gmail.com">Bryce Adelstein Lelbach</a>.
+
+## Voting Timeline ## {#voting-timeline}
+
+- 2021-09-07: Draft polls distributed by mailing list.
+- 2021-09-09: Final Library Evolution discussion telecon on the polls.
+- 2021-09-09: Start of the polling period.
+- 2021-09-24: End of the polling period.
+- 2021-09-27: Chairs share results and summarize outcomes.
+- 2021-10-04: Plenary meeting.
+
+# Polls # {#poll}
+
+Each poll consists of a statement; you vote on whether you support the
+  statement.
+All polls will be 5-way polls; you'll vote either "strongly favor",
+  "weakly favor", "neutral", "weakly against", or "strongly against".
+
+All committee members may vote, but if you have not participated in the
+  Library Evolution discussions of a poll (in-person, over telecon, or
+  over email), please consider whether you sufficiently understand the
+  topic to be able to vote in an informed manner.
+If you do not, please choose to not participate in the poll.
+
+If you do not want to participate in a poll, select the "I do not want to
+  participate in this poll" option.
+Those who do not participate in a poll will not be counted or recorded.
+Voting neutral is not the same as choosing to not participate; please
+  don't vote neutral if you did not participate in the discussions of
+  the poll.
+
+Each poll has a comment field.
+Please write a few sentences explaining the rationale for your vote.
+We recommend drafting your comments in a text editor and then pasting them
+  into the polling system.
+
+Poll results and selected comments will be shared with Library Evolution after
+  the end of the polling period, including attribution of your votes and comments.
+
+If you want to discuss the polls or how you plan on voting, please start an
+  email thread on the
+  <a href="lib-ext@lists.isocpp.org">Library Evolution mailing list</a>.
+
+You will not receive a confirmation email after voting.
+
+If you need to see how you voted, change how you voted, or have any questions
+  or issues about voting, please contact the Library Evolution chair.
+
+## Poll 1: [[P2418R0]] Add Support For `std::generator`-like types To `std::format` ## {#poll-1}
+
+Send
+  [[P2418R0]] (Add Support For `std::generator`-like types To `std::format`)
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item),
+  with the recommendation that implementations retroactively apply it to C++20.
+
+## Poll 2: [[P2351R0]] Mark All Library Static Cast Wrappers As `[[nodiscard]]` ## {#poll-2}
+
+Send
+  [[P2351R0]] (Mark All Library Static Cast Wrappers As `[[nodiscard]]`)
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
+## Poll 3: [[P2291R2]] Add Constexpr Modifiers To Functions `to_chars` And `from_chars` For Integral Types In `<charconv>` Header ## {#poll-3}
+
+Send
+  [[P2291R2]] (Add Constexpr Modifiers To Functions `to_chars` And `from_chars` For Integral Types In `<charconv>` Header)
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
