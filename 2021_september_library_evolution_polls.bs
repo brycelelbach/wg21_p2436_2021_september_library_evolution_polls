@@ -114,14 +114,22 @@ Send
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item),
   with the recommendation that implementations retroactively apply it to C++20.
 
-## Poll 3: [[P2351R0]] Mark All Library Static Cast Wrappers As `[[nodiscard]]` ## {#poll-3}
+## Poll 3: [[P2432R0]] Fix `istream_view` ## {#poll-3}
+
+Send
+  [[P2432R0]] (Fix `istream_view`)
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item),
+  with the recommendation that implementations retroactively apply it to C++20.
+
+## Poll 4: [[P2351R0]] Mark All Library Static Cast Wrappers As `[[nodiscard]]` ## {#poll-4}
 
 Send
   [[P2351R0]] (Mark All Library Static Cast Wrappers As `[[nodiscard]]`)
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
-## Poll 4: [[P2291R2]] Add Constexpr Modifiers To Functions `to_chars` And `from_chars` For Integral Types In `<charconv>` Header ## {#poll-4}
+## Poll 5: [[P2291R2]] Add Constexpr Modifiers To Functions `to_chars` And `from_chars` For Integral Types In `<charconv>` Header ## {#poll-5}
 
 Send
   [[P2291R2]] (Add Constexpr Modifiers To Functions `to_chars` And `from_chars` For Integral Types In `<charconv>` Header)
