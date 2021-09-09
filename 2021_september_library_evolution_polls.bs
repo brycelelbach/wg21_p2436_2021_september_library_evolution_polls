@@ -106,10 +106,10 @@ Send
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item),
   with the recommendation that implementations retroactively apply it to C++20.
 
-## Poll 2: [[P2415R0]] What Is A `view`? ## {#poll-2}
+## Poll 2: [[P2415R1]] What Is A `view`? ## {#poll-2}
 
 Send
-  [[P2418R0]] (What Is A `view`?)
+  [[P2415R1]] (What Is A `view`?)
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item),
   with the recommendation that implementations retroactively apply it to C++20.
@@ -136,3 +136,15 @@ Send
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
+<pre class=biblio>
+{
+  "P2432R0": {
+    "authors": [
+      "Nicolai Josuttis"
+    ],
+    "href": "https://isocpp.org/files/papers/P2432R0.pdf",
+    "title": "Fix `istream_view`",
+    "date": "2021-08-27"
+  }
+}
+</pre>
