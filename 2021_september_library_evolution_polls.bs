@@ -98,10 +98,10 @@ You will not receive a confirmation email after voting.
 If you need to see how you voted, change how you voted, or have any questions
   or issues about voting, please contact the Library Evolution chair.
 
-## Poll 1: [[P2418R0]] Add Support For `std::generator`-like types To `std::format` ## {#poll-1}
+## Poll 1: [[P2418R0]] Add Support For `std::generator`-like Types To `std::format` ## {#poll-1}
 
 Send
-  [[P2418R0]] (Add Support For `std::generator`-like types To `std::format`)
+  [[P2418R0]] (Add Support For `std::generator`-like Types To `std::format`)
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item),
   with the recommendation that implementations retroactively apply it to C++20.
