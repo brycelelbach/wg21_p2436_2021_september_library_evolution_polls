@@ -106,14 +106,22 @@ Send
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item),
   with the recommendation that implementations retroactively apply it to C++20.
 
-## Poll 2: [[P2351R0]] Mark All Library Static Cast Wrappers As `[[nodiscard]]` ## {#poll-2}
+## Poll 2: [[P2415R0]] What Is A `view`? ## {#poll-2}
+
+Send
+  [[P2418R0]] (What Is A `view`?)
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item),
+  with the recommendation that implementations retroactively apply it to C++20.
+
+## Poll 3: [[P2351R0]] Mark All Library Static Cast Wrappers As `[[nodiscard]]` ## {#poll-3}
 
 Send
   [[P2351R0]] (Mark All Library Static Cast Wrappers As `[[nodiscard]]`)
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
-## Poll 3: [[P2291R2]] Add Constexpr Modifiers To Functions `to_chars` And `from_chars` For Integral Types In `<charconv>` Header ## {#poll-3}
+## Poll 4: [[P2291R2]] Add Constexpr Modifiers To Functions `to_chars` And `from_chars` For Integral Types In `<charconv>` Header ## {#poll-4}
 
 Send
   [[P2291R2]] (Add Constexpr Modifiers To Functions `to_chars` And `from_chars` For Integral Types In `<charconv>` Header)
